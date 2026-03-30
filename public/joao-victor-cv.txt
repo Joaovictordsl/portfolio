@@ -1,0 +1,25 @@
+JOAO VICTOR
+DevOps Engineer | Cloud | CI/CD | Infrastructure as Code
+
+Resumo
+Estudante de Engenharia de Computacao com foco em DevOps, automacao, cloud e observabilidade.
+Interesse em ambientes Linux, pipelines de entrega, containers e infraestrutura reproduzivel.
+
+Competencias
+- AWS
+- Docker
+- Kubernetes
+- Terraform
+- GitHub Actions
+- Linux
+- Bash
+- Prometheus
+- Grafana
+- PostgreSQL
+- Go
+- Git
+
+Contato
+Email: joaovictor.devops@gmail.com
+GitHub: https://github.com/joaovictordesousalima
+LinkedIn: https://www.linkedin.com/in/joaovictordesousalima
