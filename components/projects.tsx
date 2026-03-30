@@ -34,8 +34,8 @@ export function Projects() {
       <div className="container-shell">
         <SectionHeading
           eyebrow="Projetos"
-          title="Cases com visual mais próximo das capturas, mas aplicados a DevOps."
-          description="A seção foi refeita com cards mais gráficos, títulos mais curtos e um bloco de detalhes abaixo, em vez do painel lateral pesado da versão anterior."
+          title="Meus projetos pessoais e profissionais, aplicados a DevOps."
+          description=""
           align="center"
           accent="orange"
         />
