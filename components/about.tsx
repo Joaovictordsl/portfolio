@@ -6,7 +6,7 @@ const highlights = [
   {
     icon: GraduationCap,
     title: "Engenharia de Computação",
-    text: "Base acadêmica em sistemas, arquitetura e raciocínio técnico aplicado.",
+    text: "Base acadêmica em sistemas distribuidos, arquitetura e raciocínio técnico aplicado.",
   },
   {
     icon: Layers3,

@@ -32,7 +32,7 @@ export function Hero() {
               </span>
             </h1>
             <p className="mx-auto mt-7 max-w-2xl text-base leading-8 text-slate-400 sm:text-lg">
-              Sou um DevOps Engineer, com foco em cloud (AWS, Azure, GCP), CI/CD,
+              Sou um DevOps Engineer, com foco em cloud (AWS), CI/CD,
               containers, automação de infraestrutura e observabilidade aplicada a
               projetos reais.
             </p>

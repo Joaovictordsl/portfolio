@@ -8,7 +8,7 @@ export function Journey() {
         <SectionHeading
           eyebrow="Experience"
           title="Evolução técnica orientada por prática."
-          description="A estrutura desta seção foi alinhada às capturas: título central forte e blocos lineares, com leitura direta e foco no percurso."
+          description=""
           align="center"
           accent="blue"
         />

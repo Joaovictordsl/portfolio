@@ -10,7 +10,7 @@ export function Certifications() {
         <SectionHeading
           eyebrow="Certificações e estudos"
           title="Trilhas em andamento e estudos aplicados."
-          description="Mantive aqui um bloco simples, técnico e discreto, para não competir visualmente com projetos e hero."
+          description="Minhas certificações e estudos"
           align="center"
           accent="white"
         />

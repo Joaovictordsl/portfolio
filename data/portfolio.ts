@@ -295,7 +295,7 @@ export const certifications: Certification[] = [
 ];
 
 export const contact = {
-  email: "joaovictor.devops@gmail.com",
-  github: "https://github.com/joaovictordesousalima",
-  linkedin: "https://www.linkedin.com/in/joaovictordesousalima",
+  email: "joaovictordsl00@gmail.com",
+  github: "https://github.com/Joaovictordsl",
+  linkedin: "https://www.linkedin.com/in/joaovictordsl00",
 };

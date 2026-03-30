@@ -15,7 +15,7 @@ export function Skills() {
         <SectionHeading
           eyebrow="Stack"
           title="Stack organizada para leitura rápida e aparência mais direta."
-          description="Mantive a seção mais limpa e escaneável, como nas referências: poucos ruídos visuais, blocos bem definidos e foco no que realmente importa para recrutadores técnicos."
+          description=""
           align="center"
           accent="white"
         />

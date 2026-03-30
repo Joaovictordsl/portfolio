@@ -25,8 +25,8 @@ export function Contact() {
           <div className="p-2 sm:p-0">
             <SectionHeading
               eyebrow="Contato"
-              title="Contato direto, simples e profissional."
-              description="Assim como na referência, esta área fica mais limpa e objetiva. A ideia é facilitar o contato sem exagerar em ornamentação."
+              title="Contato"
+              description="Entre em contato comigo, será um prazer conversar com você!"
               accent="white"
             />
 
