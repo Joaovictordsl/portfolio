@@ -32,7 +32,7 @@ export function Hero() {
               </span>
             </h1>
             <p className="mx-auto mt-7 max-w-2xl text-base leading-8 text-slate-400 sm:text-lg">
-              João Victor é um DevOps Engineer em evolução, com foco em cloud, CI/CD,
+              Sou um DevOps Engineer, com foco em cloud (AWS, Azure, GCP), CI/CD,
               containers, automação de infraestrutura e observabilidade aplicada a
               projetos reais.
             </p>
@@ -46,7 +46,7 @@ export function Hero() {
                 <ArrowDownRight className="h-4 w-4" />
               </a>
               <a
-                href="/joao-victor-cv.txt"
+                href="/JoaoLima_Resume.pdf"
                 download
                 className="soft-button inline-flex min-w-44 items-center justify-center gap-2 rounded-full border border-white/20 px-6 py-3 text-sm font-semibold text-white transition hover:bg-white/6"
               >

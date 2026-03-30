@@ -11,7 +11,7 @@ export function Header() {
             JV
           </span>
           <span className="hidden text-sm font-medium tracking-[0.24em] text-slate-300 sm:block">
-            JOAO VICTOR
+            JOÃO VICTOR
           </span>
         </a>
 
